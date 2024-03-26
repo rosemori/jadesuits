@@ -1,4 +1,3 @@
 A map of Han Dynasty jade burial suits that can be interacted with.
 
-Han dynasty jade suits
-汉代玉衣
+![Jade burial suit at the Museum of the Mausoleum of the Nanyue King, in Guangzhou](NanyueKing.jpg)
